@@ -1,0 +1,11 @@
+{
+  "name": "ember-link",
+  "description": "Link View",
+  "dependencies": {
+    "kelonye/ember": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
