@@ -2,5 +2,5 @@ require('ember');
 
 module.exports = Em.Mixin.create({
   tagName: 'a',
-  attributeBindings: 'href'.w()
+  attributeBindings: 'href target'.w()
 });
