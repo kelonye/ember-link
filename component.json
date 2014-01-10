@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Link View",
   "dependencies": {
-    "kelonye/ember": "1.0.0-rc6"
+    "kelonye/ember": "1.2.0"
   },
   "scripts": [
     "index.js"
