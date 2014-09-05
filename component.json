@@ -1,9 +1,9 @@
 {
   "name": "ember-link",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Link View",
   "dependencies": {
-    "kelonye/ember": "1.2.0"
+    "kelonye/ember": "1.7.0"
   },
   "scripts": [
     "index.js"
